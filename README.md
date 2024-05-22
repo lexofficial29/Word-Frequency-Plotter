@@ -6,11 +6,13 @@ This is a Python script that analyzes the frequency of words in a text file and 
 
 ```bash
 python main.py -n <number>
+```
 
 ## Example
 
 ```bash
 python main.py -n 10
+```
 
 ## Requirements 🛠️
 
